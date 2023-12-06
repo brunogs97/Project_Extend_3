@@ -1,4 +1,4 @@
-# Projeto Básico HTML e CSS
+# Lading Page e-commerce
 
 O Projeto extend 3 é uma lading page de um e-commerce desenvolvida em HTML e CSS. O propósito desse projeto foi por em prática os conceitos de HTML semântico, Flexbox, Grid e Responsividade no CSS.
 
